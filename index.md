@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Jerome Capirossi work summary
 
-You can use the [editor on GitHub](https://github.com/capirossij/jcapirossi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*I am working on Data Architecture in the way of Data@scale for Analytics, Artificial Intelligence purposes and other Transformation businesses cases.*  
+*I am doing researches in knowledge graphs espcially applied to enterprise modeeling, using RDF and semantic web and NLP as well.*   
+*Incidentally, I am managing UNEXX company, I am also VP Communiaction at DAMA France, Teacher at Paris1 Sorbonne university, and Certified IS Auditor.*  
 
-### Markdown
+### Enterprise modelling
+Work in progress ==> [Enterprise ontology](https://webprotege.stanford.edu/#projects/367c9619-d001-4dc2-b823-4064d9db8503/sharing)
+* the purpose is to create a basis to start a real enterprise data modelling with workers
+* then to be able to link enterprise knowledge and to process it
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### knowledge graphs
+How to build knowledge graphs ? how to represent them ? I am interested in rdf2vec
+and how to process them when they are large with Machine Learning or Deep Learning approaches ?
 
-```markdown
-Syntax highlighted code block
+### Data Architecture
+How to build data value streams to bring data to Artificial intelligence or Analytics usages with data quality and biaises management ?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/capirossij/jcapirossi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contacts
+mailto:jcapirossi@unexx.eu
