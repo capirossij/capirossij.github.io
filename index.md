@@ -6,7 +6,7 @@
 *Incidentally, I am managing UNEXX company, I am also VP Communiaction at DAMA France, Teacher at Paris1 Sorbonne university, and Certified IS Auditor.*  
 
 ### Enterprise modelling
-Work in progress ==> [Enterprise ontology](https://webprotege.stanford.edu/#projects/367c9619-d001-4dc2-b823-4064d9db8503/sharing)
+Work in progress ==> [Enterprise ontology](https://webprotege.stanford.edu/#projects/367c9619-d001-4dc2-b823-4064d9db8503/edit/Classes)
 * the purpose is to create a basis to start a real enterprise data modelling with workers
 * then to be able to link enterprise knowledge and to process it
 
