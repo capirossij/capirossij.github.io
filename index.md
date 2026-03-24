@@ -4,7 +4,7 @@
 *I am working on Data Architecture in the way of Data@scale for Analytics, Artificial Intelligence purposes and other Transformation businesses cases.I am leading researches in Contexts management for AI use cases at scale. Incidentally, I am managing UNEXX company, I am also President at DAMA-France non profit organisation, Teacher at Pantheon-Sorbonne university, and certified as IS Auditor and TOGAF Enterprise architect.*  
 
 ### Enterprise modelling
-Work in progress ==> [Enterprise ontology](https://webprotege.stanford.edu/#projects/367c9619-d001-4dc2-b823-4064d9db8503/sharing)
+Work in progress ==> [Enterprise ontology](https://webprotege.stanford.edu/#projects/367c9619-d001-4dc2-b823-4064d9db8503)
 * the purpose is to create a basis to start a real enterprise data modelling with workers
 * then to be able to link enterprise knowledge and to process it
 
